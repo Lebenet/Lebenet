@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lebenet
 - 👀 I’m interested in gaming and programming
 - 🌱 I’m currently learning Python and JS
-- 📫 My Discord : LePoney#0764
+- 📫 My Discord : LePoney#9135
 
 <!---
 Lebenet/Lebenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
