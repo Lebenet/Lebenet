@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lebenet
 - 👀 I’m interested in gaming and programming
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Python and CS
 - 📫 My Discord : LePoney#9135
 
 <!---
